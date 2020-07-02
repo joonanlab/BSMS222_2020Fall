@@ -1,5 +1,5 @@
 ## Biostatistics 
-BSMS 222, Fall 2019
+BSMS 222, Fall 2020
 Time: Monday (5) and Wednesday (5)
 Location: Room B125, Hana Science Hall, Seoul Campus
 
@@ -50,72 +50,51 @@ Additional resources:
 ## 4.1 Learning Activities
 ### Session 1 R
 
-[Introduction, R & Rstudio (9/2)](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
+[Introduction, R & Rstudio](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
 
-[R basics part 1 (9/6)](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
+[R basics part 1](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
 
-[R basics part 2 (9/9)](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
+[R basics part 2](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
 
-[Programming basics part 1 (9/11)](https://docs.google.com/presentation/d/1kGtbLJxBNW-MZMkpgzAwo6vBumdi2RQU2rQypZMfl-I/edit?usp=sharing)
+[Programming basics part 1](https://docs.google.com/presentation/d/1kGtbLJxBNW-MZMkpgzAwo6vBumdi2RQU2rQypZMfl-I/edit?usp=sharing)
 
-[Programming basics part 2 (9/16)](https://docs.google.com/presentation/d/1kGtbLJxBNW-MZMkpgzAwo6vBumdi2RQU2rQypZMfl-I/edit?usp=sharing)
+[Programming basics part 2](https://docs.google.com/presentation/d/1kGtbLJxBNW-MZMkpgzAwo6vBumdi2RQU2rQypZMfl-I/edit?usp=sharing)
 
-[Tidyverse part 1 (9/18)](https://docs.google.com/presentation/d/19xiT-7wL7UKr9IT82wd9kpgmRUbli6D8UFAyNbob6-k/edit?usp=sharing)
+[Tidyverse part 1](https://docs.google.com/presentation/d/19xiT-7wL7UKr9IT82wd9kpgmRUbli6D8UFAyNbob6-k/edit?usp=sharing)
 
-[Tidyverse part 2 & importing data (9/23)](https://docs.google.com/presentation/d/19xiT-7wL7UKr9IT82wd9kpgmRUbli6D8UFAyNbob6-k/edit?usp=sharing)
+[Tidyverse part 2 & importing data](https://docs.google.com/presentation/d/19xiT-7wL7UKr9IT82wd9kpgmRUbli6D8UFAyNbob6-k/edit?usp=sharing)
 
 ### Session 2 Data viz
 
-[ggplot (9/25)](https://docs.google.com/presentation/d/1EGhScgT-2l2O1UohW3Zo_Hp9-TF4f-lnh_L0slNmxaA/edit?usp=sharing)
+[ggplot](https://docs.google.com/presentation/d/1EGhScgT-2l2O1UohW3Zo_Hp9-TF4f-lnh_L0slNmxaA/edit?usp=sharing)
 
-[Distribution (9/30)](https://docs.google.com/presentation/d/1x9fRYL5vqiDJyR1di8I0C4_YLd4gyMJ3rJf9O8YR3kw/edit?usp=sharing)
+[Distribution](https://docs.google.com/presentation/d/1x9fRYL5vqiDJyR1di8I0C4_YLd4gyMJ3rJf9O8YR3kw/edit?usp=sharing)
 
-Data visualization in practice(10/2)
+Data visualization in practice
 
-Data visualization principles (10/7)
+Data visualization principles
 
-Robust summaries (10/9)
+Robust summaries
 
-Import data and UNIX part1 (10/14)
+Import data and UNIX part1
 
-Import data and UNIX part2 (10/16)
-
-
-
-###  Mid term (Week of 10/21)
-
-[Exam questions](https://docs.google.com/presentation/d/1HmetiYds1hHbtcH4puC102AZzYa0eKS9WJATPbofUXc/edit?usp=sharing)
+Import data and UNIX part2
 
 
-UNIX tutorial (10/28)
 
-UNIX tutorial (10/30)
+###  Mid term 
 
-### Session 3 Statistics with R
 
-[Probability part 1 (11/4)](https://docs.google.com/presentation/d/12rhgperafHJkM7Do0wCvC3nyz2piWc4AU1SR5RBIWzI/edit?usp=sharing)
 
-Probability part 2 (11/6)
+UNIX tutorial
 
-[Random variables part 1 (11/11)](https://docs.google.com/presentation/d/1_8yc--2xtq7NgwgrnMNOq_x4jX3hZwkxMu4KFd03kg4/edit?usp=sharing)
+UNIX tutorial
 
-Random variables part 2 (11/13)
+### Session 3 Statistics with Python
 
-[Statistical Inference part 1 (11/18)](https://docs.google.com/presentation/d/1aOo44Hzg9ev94NeKi2H2UmRtP0xyjyCcS2IBc1IBCxc/edit?usp=sharing)
 
-Statistical Inference part 2 (11/20)
 
-[Statistical Model1 (11/27)](https://docs.google.com/presentation/d/11Y5zxtxtD2FEXFe7XG4LMsS-gDXE9_E-_VWpsrGW0dQ/edit?usp=sharing)
-
-Statistical Model2 (12/2)
-
-Statistical Model3 (12/4)
-
-Supplementary or placeholder (12/9)
-
-Supplementary or placeholder (12/11)
-
-###  Final exam (Week of 12/16)
+###  Final exam 
 
 # 5. Assessment
 
