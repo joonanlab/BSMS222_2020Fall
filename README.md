@@ -76,19 +76,12 @@ Data visualization principles
 
 Robust summaries
 
-Import data and UNIX part1
+[Import data and UNIX] (https://docs.google.com/presentation/d/1FAZzYNij_dR2-Vnw6oV0CaE_pIF4iz9Rdw0EfrD-ml4/edit?usp=sharing)
 
-Import data and UNIX part2
-
-
+UNIX tutorial
 
 ###  Mid term 
 
-
-
-UNIX tutorial
-
-UNIX tutorial
 
 ### Session 3 Statistics with Python
 
