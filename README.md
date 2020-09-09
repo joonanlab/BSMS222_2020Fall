@@ -76,7 +76,7 @@ Data visualization principles
 
 Robust summaries
 
-[Import data and UNIX] (https://docs.google.com/presentation/d/1FAZzYNij_dR2-Vnw6oV0CaE_pIF4iz9Rdw0EfrD-ml4/edit?usp=sharing)
+[Import data and UNIX](https://docs.google.com/presentation/d/1FAZzYNij_dR2-Vnw6oV0CaE_pIF4iz9Rdw0EfrD-ml4/edit?usp=sharing)
 
 UNIX tutorial
 
