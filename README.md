@@ -66,28 +66,35 @@ Additional resources:
 
 ### Session 2 Data viz
 
-[ggplot](https://docs.google.com/presentation/d/1EGhScgT-2l2O1UohW3Zo_Hp9-TF4f-lnh_L0slNmxaA/edit?usp=sharing)
+[10/5 ggplot (Ch7)](https://docs.google.com/presentation/d/1EGhScgT-2l2O1UohW3Zo_Hp9-TF4f-lnh_L0slNmxaA/edit?usp=sharing)
 
-[Distribution](https://docs.google.com/presentation/d/1x9fRYL5vqiDJyR1di8I0C4_YLd4gyMJ3rJf9O8YR3kw/edit?usp=sharing)
+[10/12 Distribution (Ch8)](https://docs.google.com/presentation/d/1x9fRYL5vqiDJyR1di8I0C4_YLd4gyMJ3rJf9O8YR3kw/edit?usp=sharing)
 
-Data visualization in practice
+10/19 Data visualization in practice (Ch9)
 
-Data visualization principles
+10/26 Data visualization principles (Ch10)
 
-Robust summaries
+[11/2 Import data and UNIX](https://docs.google.com/presentation/d/1FAZzYNij_dR2-Vnw6oV0CaE_pIF4iz9Rdw0EfrD-ml4/edit?usp=sharing)
 
-[Import data and UNIX](https://docs.google.com/presentation/d/1FAZzYNij_dR2-Vnw6oV0CaE_pIF4iz9Rdw0EfrD-ml4/edit?usp=sharing)
+11/9 Mid term
 
-UNIX tutorial
+11/11 Mid term review, Python 101 (Kaggle setting)
 
-###  Mid term 
+11/16 Introduction to Biological Sequences, Biopython, and GNU/Linux (Ch1)
+
+11/23 Sequence Motifs (Ch2)
+
+11/30 Sequence Alignments (Ch3)
+
+12/7 Place holder 
+
+12/14 Final exam
 
 
-### Session 3 Statistics with Python
+
+### Session 3 Biological Science with Python
 
 
-
-###  Final exam 
 
 # 5. Assessment
 
