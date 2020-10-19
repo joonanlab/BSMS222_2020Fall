@@ -82,7 +82,7 @@ Additional resources:
 
 [11/16 Import data and UNIX](https://docs.google.com/presentation/d/1FAZzYNij_dR2-Vnw6oV0CaE_pIF4iz9Rdw0EfrD-ml4/edit?usp=sharing)
 
-11/23 Python Basics
+[11/23 Python Basics](https://python.swaroopch.com/)
 
 11/30 Introduction to Biological Sequences, Biopython, and GNU/Linux (Ch1) 
 
