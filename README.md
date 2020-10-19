@@ -70,21 +70,21 @@ Additional resources:
 
 [10/12 Distribution (Ch8)](https://docs.google.com/presentation/d/1x9fRYL5vqiDJyR1di8I0C4_YLd4gyMJ3rJf9O8YR3kw/edit?usp=sharing)
 
-10/19 Data visualization in practice (Ch9)
+10/19 Data visualization in practice (Ch9) and BrainSpan Tutorials
 
-10/26 Data visualization principles (Ch10)
+10/26 Data visualization principles (Ch10) and BrainSpan Tutorials
 
-[11/2 Import data and UNIX](https://docs.google.com/presentation/d/1FAZzYNij_dR2-Vnw6oV0CaE_pIF4iz9Rdw0EfrD-ml4/edit?usp=sharing)
+10/26 Data visualization principles (Ch10) and BrainSpan Tutorials
 
 11/9 Mid term
 
-11/11 Mid term review, Python 101 (Kaggle setting)
+11/11 Mid term review
 
-11/16 Introduction to Biological Sequences, Biopython, and GNU/Linux (Ch1)
+[11/16 Import data and UNIX](https://docs.google.com/presentation/d/1FAZzYNij_dR2-Vnw6oV0CaE_pIF4iz9Rdw0EfrD-ml4/edit?usp=sharing)
 
-11/23 Sequence Motifs (Ch2)
+11/23 Python Basics
 
-11/30 Sequence Alignments (Ch3)
+11/30 Introduction to Biological Sequences, Biopython, and GNU/Linux (Ch1) 
 
 12/7 Place holder 
 
